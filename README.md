@@ -27,4 +27,8 @@ pythonでwebクローラーを作って見た
 
     $ cat sampleitems.jl
 
+## 参考文献
+### [Scrapy入門①](https://sutaba-mac.site/scrapy-make-your-first-spider/#Scrapy)
+
+### [Scrapy入門②](https://sutaba-mac.site/scrapy-s2-settings-and-items/)
 
